@@ -2,6 +2,10 @@
 
 A Telegram bot powered by **Puppeteer** and **Node-Telegram-Bot-API** that automates the collection of Cisco router specifications. Users can trigger the scraper via simple chat commands, and the bot will dynamically gather product listings, crawl for data sheets, and stream PDFs straight into the personal chat.
 
+<p align="center">
+  <img src="assets/r2d2.PNG" alt="Код Общения" width="400">
+</p>
+
 ## 🚀 Features
 - **On-Demand Scraping**: Initiated directly from Telegram using the `/start` command.
 - **Live Document Streaming**: Automatically generates and streams product logs (`.txt`) and technical specification sheets (`.pdf`) right into your chat bubble.
